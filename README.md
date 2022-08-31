@@ -20,3 +20,4 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAlvesG&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
